@@ -9,6 +9,7 @@
 body,
 input {
   font-family: "Poppins", sans-serif;
+  font-size: 1.3rem;
 }
 
 .container {
@@ -140,7 +141,6 @@ form.sign-in-form {
   height: 49px;
   border-radius: 49px;
   color: #fff;
-  text-transform: uppercase;
   font-weight: 600;
   margin: 10px 0;
   cursor: pointer;
