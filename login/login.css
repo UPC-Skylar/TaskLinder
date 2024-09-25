@@ -63,7 +63,7 @@ form.sign-in-form {
 
 .title {
   font-size: 2.2rem;
-  color: #444;
+  color: #1abc9c;
   margin-bottom: 10px;
 }
 
@@ -135,7 +135,7 @@ form.sign-in-form {
 
 .btn {
   width: 150px;
-  background-color: #6a38c2;
+  background-color: #1abc9c;
   border: none;
   outline: none;
   height: 49px;
